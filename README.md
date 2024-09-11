@@ -28,10 +28,18 @@
 <div>
 
 ### Languages:
-| Python3 |  
+| Python |  
 |---------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  
 
+| Html | 
+|---------|
+|   <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title = "Html" alt="Html" width="55" height="55"/>   |  
+
+
+| CSS | 
+|---------|
+|   <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title = "CSS" alt="CSS" width="55" height="55"/>   |
   
 ### Environments, Testing, Other:
 
