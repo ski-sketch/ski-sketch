@@ -15,7 +15,7 @@
   <summary>Communicate With Me</summary>
   
   ### Communicate: 📡  
-  Join me on email, where I share insights, victories, and even the occasional setback. [mustafamoamen980@gmail.com](mailto:mustafamoamen980@gmail.com)
+  Join me on email: [mustafamoamen980@gmail.com](mailto:mustafamoamen980@gmail.com)
 
 
 </details>
